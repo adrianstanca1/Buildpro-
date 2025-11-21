@@ -1,0 +1,9 @@
+{
+  "name": "Build pro app",
+  "description": "A next-generation multimodal AI workspace featuring real-time Live voice interaction, advanced chat reasoning, and instant image generation powered by Gemini 2.5 and Imagen 3.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
